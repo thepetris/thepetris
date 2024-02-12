@@ -1,6 +1,13 @@
 ### Hi there 👾
+#### I'm finally using GitHub. Like, really using it. 
 
-#### I am finally using GitHub (for real)
+- 🧠 I’m an environmental economist currently working on my second PhD paper on agri-environment schemes (AES) 🌾🌿🐝🦋🐛
+- 💻 I mainly develop ecological-economic models. I'm familiar with R, NetLogo, Pascal and Python
+- 🌱 I’m currently strenghtening my Python skills
+- 🤝 I'm willing to collaborate on any project dealing with AES, Payments for Ecosystem Services (PES), or common pool resources 
+- 📫 How to reach me: depetris@b-tu.de
+
+#### 
 
 <!--
 **thepetris/thepetris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
